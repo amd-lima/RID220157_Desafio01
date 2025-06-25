@@ -1,5 +1,6 @@
 # 🚀 Desafio: Landing Page de Arquitetura
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0a9b48df-6ab8-415d-938d-6e3d7a021b69/deploy-status)](https://app.netlify.com/projects/rid220157/deploys)
 
 ## 📋 Etapas de Desenvolvimento
 
@@ -20,7 +21,7 @@ O projeto captura informações dos usuários e envia para uma planilha online u
 
 ### 💻Hospedado no Netlify
 
-- Site publicado: _adicione o link do seu site hospedado aqui_
+- [Site publicado](https://rid220157.netlify.app/)
 
 ---
 
